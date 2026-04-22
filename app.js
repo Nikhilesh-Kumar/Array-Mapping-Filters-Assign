@@ -187,7 +187,11 @@ const movies = [
 
 // console.log(moviez);
 
-
+// let moviez = movies.filter(movie =>
+//     movie.genre === 'Crime' &&
+//     movie.actors.filter(actor => actor === 'Leonardo DiCaprio').length > 0
+// );
+// console.log(moviez);
 
 
 // - Chain operations to find all drama movies featuring Christian Bale.
